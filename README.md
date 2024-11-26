@@ -49,3 +49,5 @@ The dataset used for this project is the PlantVillage Dataset.
 
 Results
 The model achieves high performance on the testing dataset, demonstrating its effectiveness in detecting diseases in plant leaves.
+
+The dataset used for this project is the PlantVillage Dataset.
